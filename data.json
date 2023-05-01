@@ -1,0 +1,177 @@
+ [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/fx3sGVG/shef-3.jpg",
+        "name": "Chef John",
+        "years_of_experience": 10,
+        "num_recipes": 200,
+        "likes": 1500,
+        "bio": "Chef John has been cooking professionally for over 10 years. He is known for his creative dishes and bold flavors. When he's not in the kitchen, you can find him exploring new ingredients and techniques to incorporate into his recipes.",
+        "recipes": [
+            {
+              "name": "Quinoa and Black Bean Salad",
+              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
+              "cooking_methods": "Boiling, chopping",
+              "rating": 4.8
+            },
+            {
+              "name": "Honey Mustard Glazed Salmon",
+              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
+              "cooking_methods": "Grilling, broiling",
+              "rating": 4.6
+            },
+            {
+              "name": "Mediterranean Chickpea and Vegetable Stew",
+              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
+              "cooking_methods": "Sautéing, simmering",
+              "rating": 4.4
+            }
+          ]
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/JCDTjGs/shef-5.jpg",
+        "name": "Chef Maria",
+        "years_of_experience": 7,
+        "num_recipes": 150,
+        "likes": 1000,
+        "bio": "Chef Maria has a passion for healthy, flavorful cooking. She believes that food should not only taste good, but also nourish the body. Her recipes often incorporate fresh, seasonal ingredients and innovative cooking techniques.",
+        "recipes": [
+            {
+              "name": "Quinoa and Black Bean Salad",
+              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
+              "cooking_methods": "Boiling, chopping",
+              "rating": 4.4
+            },
+            {
+              "name": "Honey Mustard Glazed Salmon",
+              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
+              "cooking_methods": "Grilling, broiling",
+              "rating": 4.9
+            },
+            {
+              "name": "Mediterranean Chickpea and Vegetable Stew",
+              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
+              "cooking_methods": "Sautéing, simmering",
+              "rating": 4.2
+            }
+          ]
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/C55FwNV/shef-2.jpg",
+        "name": "Chef Alex",
+        "years_of_experience": 5,
+        "num_recipes": 100,
+        "likes": 500,
+        "bio": "Chef Alex started his career in the restaurant industry as a dishwasher, and worked his way up to head chef. He is a master of classic dishes and techniques, but also loves to experiment with fusion cuisine and new flavors.",
+        "recipes": [
+            {
+              "name": "Quinoa and Black Bean Salad",
+              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
+              "cooking_methods": "Boiling, chopping",
+              "rating": 4.8
+            },
+            {
+              "name": "Honey Mustard Glazed Salmon",
+              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
+              "cooking_methods": "Grilling, broiling",
+              "rating": 4.8
+            },
+            {
+              "name": "Mediterranean Chickpea and Vegetable Stew",
+              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
+              "cooking_methods": "Sautéing, simmering",
+              "rating": 4.6
+            }
+          ]
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/W0mgtn5/shef-1.jpg",
+        "name": "Chef Holand",
+        "years_of_experience": 3,
+        "num_recipes": 50,
+        "likes": 250,
+        "bio": "Chef Holand is a rising star in the culinary world. He trained at some of the top restaurants in the country before starting his own catering business. His recipes are creative and playful, often incorporating unexpected flavor combinations.",
+        "recipes": [
+            {
+              "name": "Quinoa and Black Bean Salad",
+              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
+              "cooking_methods": "Boiling, chopping",
+              "rating": 4.8
+            },
+            {
+              "name": "Honey Mustard Glazed Salmon",
+              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
+              "cooking_methods": "Grilling, broiling",
+              "rating": 4.6
+            },
+            {
+              "name": "Mediterranean Chickpea and Vegetable Stew",
+              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
+              "cooking_methods": "Sautéing, simmering",
+              "rating": 4.4
+            }
+          ]
+      },
+      {
+        "id": 5,
+        "img": "https://i.ibb.co/p1SGNBC/shef-4.jpg",
+        "name": "Chef Mike",
+        "years_of_experience": 8,
+        "num_recipes": 175,
+        "likes": 1200,
+        "bio": "Chef Mike is a classically trained chef with a passion for Italian cuisine. He spent several years studying and working in Italy, where he honed his skills and developed a deep appreciation for traditional recipes and techniques.",
+        "recipes": [
+            {
+              "name": "Quinoa and Black Bean Salad",
+              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
+              "cooking_methods": "Boiling, chopping",
+              "rating": 4.8
+            },
+            {
+              "name": "Honey Mustard Glazed Salmon",
+              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
+              "cooking_methods": "Grilling, broiling",
+              "rating": 4.6
+            },
+            {
+              "name": "Mediterranean Chickpea and Vegetable Stew",
+              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
+              "cooking_methods": "Sautéing, simmering",
+              "rating": 4.4
+            }
+          ]
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/xMb59Sr/shef-6.jpg",
+        "name": "Chef Sarah",
+        "years_of_experience": 6,
+        "num_recipes": 125,
+        "likes": 750,
+        "bio": "Chef Sarah is a self-taught cook who has always had a passion for food. She started her own food blog as a hobby, and quickly gained a following for her creative recipes and approachable style. Her dishes are inspired by global flavors and ingredients.",
+        "recipes": [
+            {
+              "name": "Quinoa and Black Bean Salad",
+              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
+              "cooking_methods": "Boiling, chopping",
+              "rating": 4.8
+            },
+            {
+              "name": "Honey Mustard Glazed Salmon",
+              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
+              "cooking_methods": "Grilling, broiling",
+              "rating": 4.6
+            },
+            {
+              "name": "Mediterranean Chickpea and Vegetable Stew",
+              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
+              "cooking_methods": "Sautéing, simmering",
+              "rating": 4.4
+            }
+          ]
+      }
+    ]
+
