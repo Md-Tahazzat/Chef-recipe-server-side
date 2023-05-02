@@ -8,24 +8,55 @@
         "likes": 1500,
         "bio": "Chef John has been cooking professionally for over 10 years. He is known for his creative dishes and bold flavors. When he's not in the kitchen, you can find him exploring new ingredients and techniques to incorporate into his recipes.",
         "recipes": [
-            {
-              "name": "Quinoa and Black Bean Salad",
-              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
-              "cooking_methods": "Boiling, chopping",
-              "rating": 4.8
-            },
-            {
-              "name": "Honey Mustard Glazed Salmon",
-              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
-              "cooking_methods": "Grilling, broiling",
-              "rating": 4.6
-            },
-            {
-              "name": "Mediterranean Chickpea and Vegetable Stew",
-              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
-              "cooking_methods": "Sautéing, simmering",
-              "rating": 4.4
-            }
+          {
+            "name": "Classic Cheeseburger",
+            "ingredients": [
+              "1 pound ground beef",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "4 hamburger buns",
+              "4 slices cheddar cheese",
+              "4 lettuce leaves",
+              "4 tomato slices",
+              "4 onion slices",
+              "4 tablespoons ketchup",
+              "4 tablespoons mayonnaise"
+            ],
+            "cooking_method": "Preheat grill or grill pan over medium-high heat. Mix together ground beef, salt, and black pepper. Form into 4 equal-sized patties. Grill patties for 4-5 minutes per side, or until cooked through. During the last minute of cooking, add a slice of cheese to each patty. Toast buns on the grill for 1-2 minutes. Assemble burgers by placing a patty on each bun and topping with lettuce, tomato, onion, ketchup, and mayonnaise.",
+            "rating": 4.7
+          },
+          {
+            "name": "Mac and Cheese",
+            "ingredients": [
+              "8 ounces elbow macaroni",
+              "4 tablespoons unsalted butter",
+              "1/4 cup all-purpose flour",
+              "2 cups whole milk",
+              "1 cup grated cheddar cheese",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1/2 cup breadcrumbs"
+            ],
+            "cooking_method": "Cook macaroni according to package instructions. Melt butter in a large saucepan over medium heat. Whisk in flour and cook for 1 minute. Gradually whisk in milk and cook for 3-4 minutes, or until sauce thickens. Stir in cheddar cheese, Parmesan cheese, salt, and black pepper until cheese is melted and smooth. Add cooked macaroni to the sauce and stir until combined. Transfer to a baking dish and sprinkle with breadcrumbs. Bake at 375°F for 20-25 minutes, or until golden brown and bubbly.",
+            "rating": 4.5
+          },
+          {
+            "name": "Southern Fried Chicken",
+            "ingredients": [
+              "4 bone-in chicken thighs",
+              "1 cup buttermilk",
+              "1 cup all-purpose flour",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "1/2 teaspoon paprika",
+              "1/2 teaspoon garlic powder",
+              "1/2 teaspoon onion powder",
+              "1/2 cup vegetable oil"
+            ],
+            "cooking_method": "Place chicken thighs in a bowl and pour buttermilk over them. Refrigerate for at least 1 hour, or overnight. In a shallow dish, mix together flour, salt, black pepper, paprika, garlic powder, and onion powder. Heat oil in a large skillet over medium-high heat. Remove chicken from buttermilk and coat in the flour mixture. Shake off excess flour and place chicken in the hot oil. Fry chicken for 5-6 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate before serving.",
+            "rating": 4.9
+          }
           ]
       },
       {
@@ -37,24 +68,55 @@
         "likes": 1000,
         "bio": "Chef Maria has a passion for healthy, flavorful cooking. She believes that food should not only taste good, but also nourish the body. Her recipes often incorporate fresh, seasonal ingredients and innovative cooking techniques.",
         "recipes": [
-            {
-              "name": "Quinoa and Black Bean Salad",
-              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
-              "cooking_methods": "Boiling, chopping",
-              "rating": 4.4
-            },
-            {
-              "name": "Honey Mustard Glazed Salmon",
-              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
-              "cooking_methods": "Grilling, broiling",
-              "rating": 4.9
-            },
-            {
-              "name": "Mediterranean Chickpea and Vegetable Stew",
-              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
-              "cooking_methods": "Sautéing, simmering",
-              "rating": 4.2
-            }
+          {
+            "name": "Classic Cheeseburger",
+            "ingredients": [
+              "1 pound ground beef",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "4 hamburger buns",
+              "4 slices cheddar cheese",
+              "4 lettuce leaves",
+              "4 tomato slices",
+              "4 onion slices",
+              "4 tablespoons ketchup",
+              "4 tablespoons mayonnaise"
+            ],
+            "cooking_method": "Preheat grill or grill pan over medium-high heat. Mix together ground beef, salt, and black pepper. Form into 4 equal-sized patties. Grill patties for 4-5 minutes per side, or until cooked through. During the last minute of cooking, add a slice of cheese to each patty. Toast buns on the grill for 1-2 minutes. Assemble burgers by placing a patty on each bun and topping with lettuce, tomato, onion, ketchup, and mayonnaise.",
+            "rating": 4.7
+          },
+          {
+            "name": "Mac and Cheese",
+            "ingredients": [
+              "8 ounces elbow macaroni",
+              "4 tablespoons unsalted butter",
+              "1/4 cup all-purpose flour",
+              "2 cups whole milk",
+              "1 cup grated cheddar cheese",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1/2 cup breadcrumbs"
+            ],
+            "cooking_method": "Cook macaroni according to package instructions. Melt butter in a large saucepan over medium heat. Whisk in flour and cook for 1 minute. Gradually whisk in milk and cook for 3-4 minutes, or until sauce thickens. Stir in cheddar cheese, Parmesan cheese, salt, and black pepper until cheese is melted and smooth. Add cooked macaroni to the sauce and stir until combined. Transfer to a baking dish and sprinkle with breadcrumbs. Bake at 375°F for 20-25 minutes, or until golden brown and bubbly.",
+            "rating": 4.5
+          },
+          {
+            "name": "Southern Fried Chicken",
+            "ingredients": [
+              "4 bone-in chicken thighs",
+              "1 cup buttermilk",
+              "1 cup all-purpose flour",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "1/2 teaspoon paprika",
+              "1/2 teaspoon garlic powder",
+              "1/2 teaspoon onion powder",
+              "1/2 cup vegetable oil"
+            ],
+            "cooking_method": "Place chicken thighs in a bowl and pour buttermilk over them. Refrigerate for at least 1 hour, or overnight. In a shallow dish, mix together flour, salt, black pepper, paprika, garlic powder, and onion powder. Heat oil in a large skillet over medium-high heat. Remove chicken from buttermilk and coat in the flour mixture. Shake off excess flour and place chicken in the hot oil. Fry chicken for 5-6 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate before serving.",
+            "rating": 4.9
+          }
           ]
       },
       {
@@ -66,24 +128,55 @@
         "likes": 500,
         "bio": "Chef Alex started his career in the restaurant industry as a dishwasher, and worked his way up to head chef. He is a master of classic dishes and techniques, but also loves to experiment with fusion cuisine and new flavors.",
         "recipes": [
-            {
-              "name": "Quinoa and Black Bean Salad",
-              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
-              "cooking_methods": "Boiling, chopping",
-              "rating": 4.8
-            },
-            {
-              "name": "Honey Mustard Glazed Salmon",
-              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
-              "cooking_methods": "Grilling, broiling",
-              "rating": 4.8
-            },
-            {
-              "name": "Mediterranean Chickpea and Vegetable Stew",
-              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
-              "cooking_methods": "Sautéing, simmering",
-              "rating": 4.6
-            }
+          {
+            "name": "Classic Cheeseburger",
+            "ingredients": [
+              "1 pound ground beef",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "4 hamburger buns",
+              "4 slices cheddar cheese",
+              "4 lettuce leaves",
+              "4 tomato slices",
+              "4 onion slices",
+              "4 tablespoons ketchup",
+              "4 tablespoons mayonnaise"
+            ],
+            "cooking_method": "Preheat grill or grill pan over medium-high heat. Mix together ground beef, salt, and black pepper. Form into 4 equal-sized patties. Grill patties for 4-5 minutes per side, or until cooked through. During the last minute of cooking, add a slice of cheese to each patty. Toast buns on the grill for 1-2 minutes. Assemble burgers by placing a patty on each bun and topping with lettuce, tomato, onion, ketchup, and mayonnaise.",
+            "rating": 4.7
+          },
+          {
+            "name": "Mac and Cheese",
+            "ingredients": [
+              "8 ounces elbow macaroni",
+              "4 tablespoons unsalted butter",
+              "1/4 cup all-purpose flour",
+              "2 cups whole milk",
+              "1 cup grated cheddar cheese",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1/2 cup breadcrumbs"
+            ],
+            "cooking_method": "Cook macaroni according to package instructions. Melt butter in a large saucepan over medium heat. Whisk in flour and cook for 1 minute. Gradually whisk in milk and cook for 3-4 minutes, or until sauce thickens. Stir in cheddar cheese, Parmesan cheese, salt, and black pepper until cheese is melted and smooth. Add cooked macaroni to the sauce and stir until combined. Transfer to a baking dish and sprinkle with breadcrumbs. Bake at 375°F for 20-25 minutes, or until golden brown and bubbly.",
+            "rating": 4.5
+          },
+          {
+            "name": "Southern Fried Chicken",
+            "ingredients": [
+              "4 bone-in chicken thighs",
+              "1 cup buttermilk",
+              "1 cup all-purpose flour",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "1/2 teaspoon paprika",
+              "1/2 teaspoon garlic powder",
+              "1/2 teaspoon onion powder",
+              "1/2 cup vegetable oil"
+            ],
+            "cooking_method": "Place chicken thighs in a bowl and pour buttermilk over them. Refrigerate for at least 1 hour, or overnight. In a shallow dish, mix together flour, salt, black pepper, paprika, garlic powder, and onion powder. Heat oil in a large skillet over medium-high heat. Remove chicken from buttermilk and coat in the flour mixture. Shake off excess flour and place chicken in the hot oil. Fry chicken for 5-6 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate before serving.",
+            "rating": 4.9
+          }
           ]
       },
       {
@@ -94,26 +187,55 @@
         "num_recipes": 50,
         "likes": 250,
         "bio": "Chef Holand is a rising star in the culinary world. He trained at some of the top restaurants in the country before starting his own catering business. His recipes are creative and playful, often incorporating unexpected flavor combinations.",
-        "recipes": [
-            {
-              "name": "Quinoa and Black Bean Salad",
-              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
-              "cooking_methods": "Boiling, chopping",
-              "rating": 4.8
-            },
-            {
-              "name": "Honey Mustard Glazed Salmon",
-              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
-              "cooking_methods": "Grilling, broiling",
-              "rating": 4.6
-            },
-            {
-              "name": "Mediterranean Chickpea and Vegetable Stew",
-              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
-              "cooking_methods": "Sautéing, simmering",
-              "rating": 4.4
-            }
-          ]
+        "recipes": [{
+          "name": "Classic Cheeseburger",
+          "ingredients": [
+            "1 pound ground beef",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "4 hamburger buns",
+            "4 slices cheddar cheese",
+            "4 lettuce leaves",
+            "4 tomato slices",
+            "4 onion slices",
+            "4 tablespoons ketchup",
+            "4 tablespoons mayonnaise"
+          ],
+          "cooking_method": "Preheat grill or grill pan over medium-high heat. Mix together ground beef, salt, and black pepper. Form into 4 equal-sized patties. Grill patties for 4-5 minutes per side, or until cooked through. During the last minute of cooking, add a slice of cheese to each patty. Toast buns on the grill for 1-2 minutes. Assemble burgers by placing a patty on each bun and topping with lettuce, tomato, onion, ketchup, and mayonnaise.",
+          "rating": 4.7
+        },
+        {
+          "name": "Mac and Cheese",
+          "ingredients": [
+            "8 ounces elbow macaroni",
+            "4 tablespoons unsalted butter",
+            "1/4 cup all-purpose flour",
+            "2 cups whole milk",
+            "1 cup grated cheddar cheese",
+            "1/2 cup grated Parmesan cheese",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1/2 cup breadcrumbs"
+          ],
+          "cooking_method": "Cook macaroni according to package instructions. Melt butter in a large saucepan over medium heat. Whisk in flour and cook for 1 minute. Gradually whisk in milk and cook for 3-4 minutes, or until sauce thickens. Stir in cheddar cheese, Parmesan cheese, salt, and black pepper until cheese is melted and smooth. Add cooked macaroni to the sauce and stir until combined. Transfer to a baking dish and sprinkle with breadcrumbs. Bake at 375°F for 20-25 minutes, or until golden brown and bubbly.",
+          "rating": 4.5
+        },
+        {
+          "name": "Southern Fried Chicken",
+          "ingredients": [
+            "4 bone-in chicken thighs",
+            "1 cup buttermilk",
+            "1 cup all-purpose flour",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "1/2 teaspoon paprika",
+            "1/2 teaspoon garlic powder",
+            "1/2 teaspoon onion powder",
+            "1/2 cup vegetable oil"
+          ],
+          "cooking_method": "Place chicken thighs in a bowl and pour buttermilk over them. Refrigerate for at least 1 hour, or overnight. In a shallow dish, mix together flour, salt, black pepper, paprika, garlic powder, and onion powder. Heat oil in a large skillet over medium-high heat. Remove chicken from buttermilk and coat in the flour mixture. Shake off excess flour and place chicken in the hot oil. Fry chicken for 5-6 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate before serving.",
+          "rating": 4.9
+        }]
       },
       {
         "id": 5,
@@ -124,24 +246,55 @@
         "likes": 1200,
         "bio": "Chef Mike is a classically trained chef with a passion for Italian cuisine. He spent several years studying and working in Italy, where he honed his skills and developed a deep appreciation for traditional recipes and techniques.",
         "recipes": [
-            {
-              "name": "Quinoa and Black Bean Salad",
-              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
-              "cooking_methods": "Boiling, chopping",
-              "rating": 4.8
-            },
-            {
-              "name": "Honey Mustard Glazed Salmon",
-              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
-              "cooking_methods": "Grilling, broiling",
-              "rating": 4.6
-            },
-            {
-              "name": "Mediterranean Chickpea and Vegetable Stew",
-              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
-              "cooking_methods": "Sautéing, simmering",
-              "rating": 4.4
-            }
+          {
+            "name": "Classic Cheeseburger",
+            "ingredients": [
+              "1 pound ground beef",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "4 hamburger buns",
+              "4 slices cheddar cheese",
+              "4 lettuce leaves",
+              "4 tomato slices",
+              "4 onion slices",
+              "4 tablespoons ketchup",
+              "4 tablespoons mayonnaise"
+            ],
+            "cooking_method": "Preheat grill or grill pan over medium-high heat. Mix together ground beef, salt, and black pepper. Form into 4 equal-sized patties. Grill patties for 4-5 minutes per side, or until cooked through. During the last minute of cooking, add a slice of cheese to each patty. Toast buns on the grill for 1-2 minutes. Assemble burgers by placing a patty on each bun and topping with lettuce, tomato, onion, ketchup, and mayonnaise.",
+            "rating": 4.7
+          },
+          {
+            "name": "Mac and Cheese",
+            "ingredients": [
+              "8 ounces elbow macaroni",
+              "4 tablespoons unsalted butter",
+              "1/4 cup all-purpose flour",
+              "2 cups whole milk",
+              "1 cup grated cheddar cheese",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1/2 cup breadcrumbs"
+            ],
+            "cooking_method": "Cook macaroni according to package instructions. Melt butter in a large saucepan over medium heat. Whisk in flour and cook for 1 minute. Gradually whisk in milk and cook for 3-4 minutes, or until sauce thickens. Stir in cheddar cheese, Parmesan cheese, salt, and black pepper until cheese is melted and smooth. Add cooked macaroni to the sauce and stir until combined. Transfer to a baking dish and sprinkle with breadcrumbs. Bake at 375°F for 20-25 minutes, or until golden brown and bubbly.",
+            "rating": 4.5
+          },
+          {
+            "name": "Southern Fried Chicken",
+            "ingredients": [
+              "4 bone-in chicken thighs",
+              "1 cup buttermilk",
+              "1 cup all-purpose flour",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "1/2 teaspoon paprika",
+              "1/2 teaspoon garlic powder",
+              "1/2 teaspoon onion powder",
+              "1/2 cup vegetable oil"
+            ],
+            "cooking_method": "Place chicken thighs in a bowl and pour buttermilk over them. Refrigerate for at least 1 hour, or overnight. In a shallow dish, mix together flour, salt, black pepper, paprika, garlic powder, and onion powder. Heat oil in a large skillet over medium-high heat. Remove chicken from buttermilk and coat in the flour mixture. Shake off excess flour and place chicken in the hot oil. Fry chicken for 5-6 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate before serving.",
+            "rating": 4.9
+          }
           ]
       },
       {
@@ -153,24 +306,55 @@
         "likes": 750,
         "bio": "Chef Sarah is a self-taught cook who has always had a passion for food. She started her own food blog as a hobby, and quickly gained a following for her creative recipes and approachable style. Her dishes are inspired by global flavors and ingredients.",
         "recipes": [
-            {
-              "name": "Quinoa and Black Bean Salad",
-              "ingredients": ["quinoa", "black beans", "tomatoes", "avocado", "lime"],
-              "cooking_methods": "Boiling, chopping",
-              "rating": 4.8
-            },
-            {
-              "name": "Honey Mustard Glazed Salmon",
-              "ingredients": ["salmon fillet", "honey", "dijon mustard", "soy sauce", "garlic"],
-              "cooking_methods": "Grilling, broiling",
-              "rating": 4.6
-            },
-            {
-              "name": "Mediterranean Chickpea and Vegetable Stew",
-              "ingredients": ["chickpeas", "tomatoes", "zucchini", "eggplant", "cumin"],
-              "cooking_methods": "Sautéing, simmering",
-              "rating": 4.4
-            }
+          {
+            "name": "Classic Cheeseburger",
+            "ingredients": [
+              "1 pound ground beef",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "4 hamburger buns",
+              "4 slices cheddar cheese",
+              "4 lettuce leaves",
+              "4 tomato slices",
+              "4 onion slices",
+              "4 tablespoons ketchup",
+              "4 tablespoons mayonnaise"
+            ],
+            "cooking_method": "Preheat grill or grill pan over medium-high heat. Mix together ground beef, salt, and black pepper. Form into 4 equal-sized patties. Grill patties for 4-5 minutes per side, or until cooked through. During the last minute of cooking, add a slice of cheese to each patty. Toast buns on the grill for 1-2 minutes. Assemble burgers by placing a patty on each bun and topping with lettuce, tomato, onion, ketchup, and mayonnaise.",
+            "rating": 4.7
+          },
+          {
+            "name": "Mac and Cheese",
+            "ingredients": [
+              "8 ounces elbow macaroni",
+              "4 tablespoons unsalted butter",
+              "1/4 cup all-purpose flour",
+              "2 cups whole milk",
+              "1 cup grated cheddar cheese",
+              "1/2 cup grated Parmesan cheese",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper",
+              "1/2 cup breadcrumbs"
+            ],
+            "cooking_method": "Cook macaroni according to package instructions. Melt butter in a large saucepan over medium heat. Whisk in flour and cook for 1 minute. Gradually whisk in milk and cook for 3-4 minutes, or until sauce thickens. Stir in cheddar cheese, Parmesan cheese, salt, and black pepper until cheese is melted and smooth. Add cooked macaroni to the sauce and stir until combined. Transfer to a baking dish and sprinkle with breadcrumbs. Bake at 375°F for 20-25 minutes, or until golden brown and bubbly.",
+            "rating": 4.5
+          },
+          {
+            "name": "Southern Fried Chicken",
+            "ingredients": [
+              "4 bone-in chicken thighs",
+              "1 cup buttermilk",
+              "1 cup all-purpose flour",
+              "1 teaspoon salt",
+              "1/2 teaspoon black pepper",
+              "1/2 teaspoon paprika",
+              "1/2 teaspoon garlic powder",
+              "1/2 teaspoon onion powder",
+              "1/2 cup vegetable oil"
+            ],
+            "cooking_method": "Place chicken thighs in a bowl and pour buttermilk over them. Refrigerate for at least 1 hour, or overnight. In a shallow dish, mix together flour, salt, black pepper, paprika, garlic powder, and onion powder. Heat oil in a large skillet over medium-high heat. Remove chicken from buttermilk and coat in the flour mixture. Shake off excess flour and place chicken in the hot oil. Fry chicken for 5-6 minutes per side, or until golden brown and cooked through. Drain on a paper towel-lined plate before serving.",
+            "rating": 4.9
+          }
           ]
       }
     ]
